@@ -8,6 +8,6 @@
 #include<stdio.h>
 int main()
 {
-printf("welcome")
+printf("hello")
 printf("world")
 }
